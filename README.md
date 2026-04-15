@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![JAVASCRIPT](https://img.shields.io/badges/-Javascript-
-https://img.shields.io/badge/any_text-you_like-blue
+![JAVASCRIPT](https://img.shields.io/badge/any_text-you_like-blue)
